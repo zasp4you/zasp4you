@@ -1,0 +1,16 @@
+{
+  "name": "Zakir Ayoub's Study Portal",
+  "short_name": "Zasp4you.in",
+  "lang": "en-IN",
+  "start_url": "https://www.zasp4you.in",
+  "display": "standalone",
+  "theme_color": "#1683ac",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-LiFoYKNnD4Y/YJ-l0xKCmxI/AAAAAAAAA7c/5dMJS6QGqOMxnRKGFYxXF56stwyHRP7oQCLcBGAsYHQ/s192/android-chrome-192x192.png",
+      "sizes": "192×192",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#1683ac"
+}
